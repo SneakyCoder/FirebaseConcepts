@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseConcepts</string>
+    <string name="auth_failed" >auth failed</string>
+</resources>
